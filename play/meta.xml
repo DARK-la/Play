@@ -1,0 +1,6 @@
+<meta>
+	<oop>true</oop>
+	<info author="Dark" description="Un modo de juego sencillo para revivir" version="1.5" type="gamemode" />
+	<script src="broph.lua" type="server"/>
+	<script src="client.lua" type="client"/>
+</meta>
